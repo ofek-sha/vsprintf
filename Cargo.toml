@@ -13,7 +13,7 @@ readme = "README.md"
 keywords = ["vsprintf", "sprintf", "printf", "va_list", "va_arg"]
 
 [dependencies]
-libc = "0.2"
+libc = "0.2.155"
 
 [build-dependencies]
-cc = "1.0"
+cc = "1.0.100"
